@@ -1,5 +1,7 @@
 MHW relevant events: 
 
+| Mane |  Farm |
+| ------------- | ------------- |
 |USJ quests 			  | Azure Starlord armor set and Azure Star Blade |
 |Code: Red 				  | Dante colab |
 |Greeting the Gluttons 	  | to farm meal vouchers |
